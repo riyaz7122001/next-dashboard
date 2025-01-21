@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Admin Dashboard",
-  description: "Training Admin Dashboard",
+  title: "Vesetly Dashboard",
+  description: " Vesetly Dashboard",
 };
 
 export default function RootLayout({
